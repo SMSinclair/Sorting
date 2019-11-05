@@ -48,6 +48,8 @@ Temporary Items
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
+/src/iterative_sorting/__pycache__/
+/src/recursive_sorting/__pycache__/
 *.py[cod]
 *$py.class
 
